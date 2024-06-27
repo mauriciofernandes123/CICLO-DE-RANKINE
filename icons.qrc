@@ -1,0 +1,30 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>icons/icons8-email-50.png</file>
+    <file>icons/mail_FILL0_wght400_GRAD0_opsz24.png</file>
+    <file>icons/home.png</file>
+    <file>icons/baseline_copyright_black_24dp.png</file>
+    <file>icons/baseline_maps_home_work_black_24dp.png</file>
+    <file>icons/baseline_home_black_24dp.png</file>
+    <file>icons/baseline_visibility_black_24dp.png</file>
+    <file>icons/baseline_tips_and_updates_black_24dp.png</file>
+    <file>icons/baseline_calculate_black_24dp.png</file>
+    <file>icons/baseline_delete_forever_black_24dp.png</file>
+    <file>icons/email.png</file>
+    <file>icons/logo.png</file>
+    <file>icons/menu.png</file>
+    <file>icons/menu1.png</file>
+    <file>icons/menu2.png</file>
+    <file>icons/whatsApp.png</file>
+    <file>icons/Youtube.png</file>
+  </qresource>
+  <qresource prefix="como usar">
+    <file>como usar/informations simples.png</file>
+  </qresource>
+  <qresource prefix="exemplos">
+    <file>exemplos/reaquecimento1.jpeg</file>
+    <file>exemplos/regenerativo com reaquecimento.jpeg</file>
+    <file>exemplos/simples.jpeg</file>
+    <file>exemplos/regenerativo.jpeg</file>
+  </qresource>
+</RCC>
