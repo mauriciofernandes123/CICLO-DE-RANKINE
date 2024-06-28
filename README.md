@@ -14,11 +14,14 @@ Este software, desenvolvido em Python com uma interface gráfica intuitiva, é d
 - **Cálculo de Propriedades Termodinâmicas:** Utiliza a biblioteca CoolProp para calcular propriedades de diversos fluidos, como água, amônia, butano e R134a.
 - **Interface Gráfica Intuitiva:** Facilita a interação do usuário, tornando o processo de aprendizado mais intuitivo.
 - **Otimização de Processos:** Implementa algoritmos que ajudam na otimização dos ciclos, especialmente no ciclo de reaquecimento.
-- **Versatilidade:** Adequado para diferentes configurações de ciclos de Rankine, oferecendo flexibilidade para diversas aplicações acadêmicas e práticas.
 
 ## Objetivos
 
 O principal objetivo do desenvolvimento deste software foi aplicar na prática os conhecimentos adquiridos em Python e criar uma ferramenta útil para a comunidade acadêmica da Universidade Federal do Oeste da Bahia (UFOB). Este software é especialmente útil para as disciplinas de Termodinâmica Básica, Termodinâmica Aplicada, Sistemas Térmicos e Refrigeração, permitindo aos alunos e professores otimizar seu tempo e esforços, focando mais na análise e interpretação dos resultados do que nos cálculos repetitivos.
+
+## Interface
+
+
 
 ## Instalação
 
@@ -34,11 +37,11 @@ O principal objetivo do desenvolvimento deste software foi aplicar na prática o
    ```bash
    python3 -m venv venv
    
-4. Ativar o ambiente virtual:
+4. Comando para ativar o ambiente virtual
    ```bash
    source /venv/bin/activate
    
-5. Instale as bibliotecas:
+5. Comando para instalar as bibliotecas:
      ```bash
       pip install -r requirements.txt
      
@@ -48,15 +51,15 @@ O principal objetivo do desenvolvimento deste software foi aplicar na prática o
 
 ## No terminal Windows e IDE
 
-3. Criar o ambiente virtual:
+3. Comando para criar o ambiente virtual:
    ```bash
    python3 -m venv venv
    
-4. Ativar o ambiente virtual (Apenas para terminal Windows):
+4. Comando para ativar o ambiente virtual (Apenas para terminal Windows):
    ```bash
    /venv/Scripts/activate
 
-5. Instale as bibliotecas:
+5. Comando para instalar as bibliotecas:
      ```bash
       pip install -r requirements.txt
 
