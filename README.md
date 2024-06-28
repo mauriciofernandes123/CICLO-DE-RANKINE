@@ -29,6 +29,9 @@ O principal objetivo do desenvolvimento deste software foi aplicar na prática o
 2. Extraia o arquivo compactado e abre o diretório no terminal ou IDE:
 
 3. Instale as bibliotecas:
-  ```bash
-   pip install requirements.txt
+     ```bash
+      pip install requirements.txt
+
+4. Execute o main.py 
+
 
