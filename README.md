@@ -19,9 +19,29 @@ Este software, desenvolvido em Python com uma interface gráfica intuitiva, é d
 
 O principal objetivo do desenvolvimento deste software foi aplicar na prática os conhecimentos adquiridos em Python e criar uma ferramenta útil para a comunidade acadêmica da Universidade Federal do Oeste da Bahia (UFOB). Este software é especialmente útil para as disciplinas de Termodinâmica Básica, Termodinâmica Aplicada, Sistemas Térmicos e Refrigeração, permitindo aos alunos e professores otimizar seu tempo e esforços, focando mais na análise e interpretação dos resultados do que nos cálculos repetitivos.
 
-## Interface
+## Interface do Usuário
 
+Nossa interface do usuário é projetada para ser intuitiva e fácil de usar. A janela principal fornece acesso rápido a todas as funcionalidades principais do software, incluindo a definição de parâmetros do ciclo, visualização de resultados e opções de otimização.
 
+![Interface do Usuário](caminho/para/sua/imagem_interface.png)
+
+## Janela de Propriedades
+
+Na janela de propriedades, você pode definir todas as propriedades termodinâmicas dos componentes do ciclo. Aqui, você pode ajustar parâmetros como temperatura, pressão, eficiência e mais. Isso permite uma personalização detalhada do ciclo, adequada para análises específicas.
+
+![Janela de Propriedades](propriedades.png)
+
+## Ciclo de Rankine Simples
+
+O ciclo de Rankine simples é um ciclo termodinâmico fundamental para a geração de energia. Nosso software permite simular este ciclo, fornecendo gráficos e dados detalhados sobre seu desempenho. Abaixo está uma visualização do ciclo de Rankine simples.
+
+![Ciclo de Rankine Simples](simples.png)
+
+## Otimização do Ciclo de Reaquecimento
+
+A otimização do ciclo de reaquecimento é crucial para aumentar a eficiência dos sistemas de geração de energia. Nosso software oferece ferramentas avançadas para analisar e otimizar este ciclo, ajudando a identificar os melhores parâmetros de operação. Abaixo está um exemplo de otimização do ciclo de reaquecimento.
+
+![Otimização do Ciclo de Reaquecimento](reaquecimento.png)
 
 ## Instalação
 
@@ -66,7 +86,3 @@ O principal objetivo do desenvolvimento deste software foi aplicar na prática o
 6. Execute o main.py 
    ```bash
       python3 main.py
-
-   
-   
-
