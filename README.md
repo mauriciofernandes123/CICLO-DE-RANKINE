@@ -40,7 +40,7 @@ O principal objetivo do desenvolvimento deste software foi aplicar na prática o
    
 5. Instale as bibliotecas:
      ```bash
-      pip install requirements.txt
+      pip install -r requirements.txt
      
 6. Execute o main.py 
    ```bash
@@ -52,13 +52,13 @@ O principal objetivo do desenvolvimento deste software foi aplicar na prática o
    ```bash
    python3 -m venv venv
    
-4. Ativar o ambiente virtual:
+4. Ativar o ambiente virtual (Apenas para terminal Windows):
    ```bash
    /venv/Scripts/activate
 
 5. Instale as bibliotecas:
      ```bash
-      pip install requirements.txt
+      pip install -r requirements.txt
 
 6. Execute o main.py 
    ```bash
