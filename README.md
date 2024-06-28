@@ -30,16 +30,19 @@ O principal objetivo do desenvolvimento deste software foi aplicar na prática o
 
 #No Linux
 
-3. Execute:
+3. Criar o ambiente virtual:
    ```bash
    python3 -m venv venv
+   
+4. Ativar o ambiente virtual:
+   ```bash
    source /venv/bin/activate
    
-4. Instale as bibliotecas:
+5. Instale as bibliotecas:
      ```bash
       pip install requirements.txt
      
-5. Execute o main.py 
+6. Execute o main.py 
    ```bash
       python3 main.py
 
