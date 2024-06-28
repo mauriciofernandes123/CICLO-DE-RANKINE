@@ -51,38 +51,38 @@ A otimização do ciclo de reaquecimento é crucial para aumentar a eficiência 
 
 2. Extraia o arquivo compactado e abre o diretório no terminal ou IDE:
 
-   ## No Linux
+## No Linux
    
-   3. Criar o ambiente virtual:
-      ```bash
-      python3 -m venv venv
+3. Criar o ambiente virtual:
+   ```bash
+   python3 -m venv venv
       
-   4. Comando para ativar o ambiente virtual
-      ```bash
-      source /venv/bin/activate
+4. Comando para ativar o ambiente virtual
+   ```bash
+   source /venv/bin/activate
       
-   5. Comando para instalar as bibliotecas:
-        ```bash
-         pip install -r requirements.txt
+5. Comando para instalar as bibliotecas:
+   ```bash
+   pip install -r requirements.txt
         
-   6. Execute o main.py 
-      ```bash
-         python3 main.py
+6. Execute o main.py 
+   ```bash
+   python3 main.py
    
-   ## No terminal Windows e IDE
+## No terminal Windows e IDE
    
-   3. Comando para criar o ambiente virtual:
-      ```bash
-      python3 -m venv venv
+3. Comando para criar o ambiente virtual:
+   ```bash
+   python3 -m venv venv
       
-   4. Comando para ativar o ambiente virtual (Apenas para terminal Windows):
-      ```bash
-      /venv/Scripts/activate
+4. Comando para ativar o ambiente virtual (Apenas para terminal Windows):
+   ```bash
+   /venv/Scripts/activate
    
-   5. Comando para instalar as bibliotecas:
-     ```bash
-      pip install -r requirements.txt
+5. Comando para instalar as bibliotecas:
+   ```bash
+   pip install -r requirements.txt
 
 6. Execute o main.py 
    ```bash
-      python3 main.py
+   python3 main.py
