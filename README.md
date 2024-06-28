@@ -28,7 +28,7 @@ O principal objetivo do desenvolvimento deste software foi aplicar na prática o
 
 2. Extraia o arquivo compactado e abre o diretório no terminal ou IDE:
 
-#No Linux
+## No Linux
 
 3. Criar o ambiente virtual:
    ```bash
@@ -45,4 +45,25 @@ O principal objetivo do desenvolvimento deste software foi aplicar na prática o
 6. Execute o main.py 
    ```bash
       python3 main.py
+
+## No terminal Windows e IDE
+
+3. Criar o ambiente virtual:
+   ```bash
+   python3 -m venv venv
+   
+4. Ativar o ambiente virtual:
+   ```bash
+   /venv/Scripts/activate
+
+5. Instale as bibliotecas:
+     ```bash
+      pip install requirements.txt
+
+6. Execute o main.py 
+   ```bash
+      python3 main.py
+
+   
+   
 
