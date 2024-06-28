@@ -23,7 +23,7 @@ O principal objetivo do desenvolvimento deste software foi aplicar na prática o
 
 Nossa interface do usuário é projetada para ser intuitiva e fácil de usar. A janela principal fornece acesso rápido a todas as funcionalidades principais do software, incluindo a definição de parâmetros do ciclo, visualização de resultados e opções de otimização.
 
-![Interface do Usuário](caminho/para/sua/imagem_interface.png)
+![Interface do Usuário](janela.png)
 
 ## Janela de Propriedades
 
