@@ -25,3 +25,10 @@ O principal objetivo do desenvolvimento deste software foi aplicar na prática o
 1. Clone este repositório:
    ```bash
    git clone https://github.com/mauriciofernandes123/CICLO-DE-RANKINE.git
+
+2. Extraia o arquivo compactado e abre o diretório no terminal ou IDE:
+
+3. Instale as bibliotecas:
+  ```bash
+   pip install requirements.txt
+
