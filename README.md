@@ -28,10 +28,18 @@ O principal objetivo do desenvolvimento deste software foi aplicar na prática o
 
 2. Extraia o arquivo compactado e abre o diretório no terminal ou IDE:
 
-3. Instale as bibliotecas:
+#No Linux
+
+3. Execute:
+   ```bash
+   python3 -m venv venv
+   source /venv/bin/activate
+   
+4. Instale as bibliotecas:
      ```bash
       pip install requirements.txt
-
-4. Execute o main.py 
-
+     
+5. Execute o main.py 
+   ```bash
+      python3 main.py
 
