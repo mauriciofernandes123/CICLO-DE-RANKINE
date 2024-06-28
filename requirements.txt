@@ -1,0 +1,3 @@
+coolprop
+pyside6
+matplotlib
